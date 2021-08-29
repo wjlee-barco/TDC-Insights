@@ -1,10 +1,14 @@
+name: TDC Insights
+title: TDC Insights
+description: "Landing pages for TDC Insights/ Demo."
 url: https://wjlee-barco.github.io
 baseurl: /TDC-Insights/
-
-# Site settings
-title: TDC Insights
 email: wj.lee@barco.com
-description: "Landing pages for TDC Insights/ Demo."
+
+
+# Plugins
+plugins:
+  jekyll-redirect-from
 
 
 # Team names, titles and social links
